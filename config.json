@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenualculate",
+        "uuid": 29117192,
+        "checksum": "sel5lw"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
